@@ -10,5 +10,5 @@ entries:
       name: axdotl
     name: any-resource
     urls:
-    - https://github.com/thandayuthapani/charts-test/charts
+    - https://github.com/thandayuthapani/charts-test
     version: 0.1.0
