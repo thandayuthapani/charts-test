@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  volcano:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    description: A Helm chart to bring any kind of resources in a k8s cluster
+    home: https://github.com/thandayuthapani/charts-test
+    maintainers:
+    - email: axel.koehler@kiwigrid.com
+      name: axdotl
+    name: any-resource
+    urls:
+    - https://github.com/thandayuthapani/charts-test/charts
+    version: 0.1.0
