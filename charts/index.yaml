@@ -2,11 +2,21 @@ apiVersion: v1
 entries:
   volcano:
   - apiVersion: v1
-    created: 2019-06-17T11:53:39.31635914+05:30
-    description: volcano
-    digest: 0bccc49560e959b79b1430064ec74b3454985eed4447018c829af44132d7b12a
+    appVersion: "0.1"
+    created: 2019-06-17T12:20:38.613493146+05:30
+    description: A Helm chart for Kubernetes
+    digest: 349186e7e706bbf7bb444293951cbe99657ac355687d5a57a4eff7dda2303823
+    home: https://volcano.sh
+    icon: https://github.com/volcano-sh/volcano/blob/master/docs/images/volcano-logo.png
+    maintainers:
+    - email: klaus1982.cn@gmail.com
+      name: k82cn
+    - email: kevinwzf0126@gmail.com
+      name: kevin-wangzefeng
     name: volcano
+    sources:
+    - https://github.com/volcano-sh/volcano
     urls:
     - volcano-0.1.tgz
     version: "0.1"
-generated: 2019-06-17T11:53:39.315935157+05:30
+generated: 2019-06-17T12:20:38.613002188+05:30
