@@ -10,5 +10,5 @@ entries:
       name: axdotl
     name: any-resource
     urls:
-    - https://github.com/thandayuthapani/charts-test
+    - https://github.com/thandayuthapani/charts-test/volcano-0.0.1.tgz
     version: 0.1.0
